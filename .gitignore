@@ -1,0 +1,11 @@
+/generic-jpa/target/
+
+/generic-web/target/
+
+/generic-wf/nbproject/
+/generic-wf/target/
+
+.idea
+
+activiti.cfg.xml
+application.properties
