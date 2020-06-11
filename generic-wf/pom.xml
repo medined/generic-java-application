@@ -21,7 +21,7 @@
     <description>handles the workflow layer</description>
     
     <properties>
-        <start-class>generic.wf.GenerateTravelPlanBpmnXmlFileDriver</start-class>
+        <start-class>generic.wf.TravelPlanProcessDriver</start-class>
     </properties>
 
     <dependencyManagement>
