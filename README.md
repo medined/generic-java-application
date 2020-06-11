@@ -1,3 +1,5 @@
+![Java CI with Maven](https://github.com/medined/generic-java-application/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 # Generic Java Web Application
 
 ## TL;DR
